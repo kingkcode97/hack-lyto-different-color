@@ -15,5 +15,5 @@ pip install pyautogui
 ## How to use 
 Run the following command. The program window will pop out.
 ```
-python LytoColorHack.py
+python app.py
 ```
